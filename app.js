@@ -1,6 +1,6 @@
 let prompt = document.getElementById('prompt')
 let chatContainer = document.getElementById('chatcontainer')
-const API_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBTeeyTsudcGO1GR2ZtopGt9Ysc-PiBiMs"
+const API_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyCZzOUg5C7YL3bJgU0M_litQLza6Nbi0VA"
 let imageBtn = document.getElementById('image')
 let imageInput= document.querySelector("#image input")
 let submitBtn= document.getElementById('submit')
